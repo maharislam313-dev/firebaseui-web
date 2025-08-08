@@ -1,0 +1,7 @@
+apiKey: "XXXXXX",
+  authDomain: "spinwinapp.firebaseapp.com",
+  projectId: "XXXXXX",
+  storageBucket: "XXXXXX.appspot.com",
+  messagingSenderId: "XXXXXX",
+  appId: "XXXXXX"
+
